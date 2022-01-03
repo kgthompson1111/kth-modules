@@ -2,7 +2,7 @@
  * Module dependencies
  */
 
-import { menuSlider } from './lib/animations.js';
+import { menuSlider } from './lib/animations';
 const addMenuSlider = menuSlider;
 
 /**
