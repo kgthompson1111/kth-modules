@@ -1,0 +1,22 @@
+{
+  "name": "@kgthompson1111/kth-modules",
+  "version": "1.0.0",
+  "description": "CUSTOM NPM MODULE CONTAINING MODULES BY KTH",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgthompson1111/kth-modules.git"
+  },
+  "author": "Kelly Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgthompson1111/kth-modules/issues"
+  },
+  "homepage": "https://github.com/kgthompson1111/kth-modules#readme"
+}
